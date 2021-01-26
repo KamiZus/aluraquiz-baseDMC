@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import db from '../db.json';
 import Widget from '../src/components/Widget';
 import Footer from '../src/components/Footer';
-import QuizBackground from '../src/components/QuizBackground';
+import QuizBackground from '../src/components/QuizBackGround';
 import GitHubCorner from '../src/components/GitHubCorner';
 import QuizLogo from '../src/components/QuizLogo';
 
